@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "276956642428",
+    "firebase_url": "https://wheretest-30752.firebaseio.com",
+    "project_id": "wheretest-30752",
+    "storage_bucket": "wheretest-30752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276956642428:android:150ee3406c022c07",
+        "android_client_info": {
+          "package_name": "test.whr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276956642428-78r5f6c8r5t0l9tp3fdvi9q5k4ejjrm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7eohaDl8eq5t5ujeabem3qrvIg6HHMe0"
+        },
+        {
+          "current_key": "AIzaSyD7eohaDl8eq5t5ujeabem3qrvIg6HHMe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
