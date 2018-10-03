@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">WH?R?</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_event_list">EventListActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_venue_list">VenueListActivity</string>
+    <string name="title_activity_event_deeper">EventDeeper</string>
+    <string name="title_activity_venue_deeper">VenueDeeper</string>
+    <string name="title_activity_create_event">CreateEvent</string>
+    <string name="title_activity_created_venue_list">CreatedVenueList</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_edit_venue">EditVenue</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
 </resources>

@@ -31,6 +31,48 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".EventListActivity"
+            android:label="@string/title_activity_event_list" />
+        <activity android:name=".BaseActivity" />
+        <activity
+            android:name=".VenueListActivity"
+            android:label="@string/title_activity_venue_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EventDeeper"
+            android:label="@string/title_activity_event_deeper"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".VenueDeeper"
+            android:label="@string/title_activity_venue_deeper"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CreateEvent"
+            android:label="@string/title_activity_create_event"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".CreatedEventsList" />
+        <activity
+            android:name=".CreatedVenueList"
+            android:label="@string/title_activity_created_venue_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Profile"
+            android:label="@string/title_activity_profile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".EditEvent" />
+        <activity
+            android:name=".EditVenue"
+            android:label="@string/title_activity_edit_venue"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/title_activity_login"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
